@@ -16,7 +16,7 @@ nav {
   width: 100vw;
   display: flex;
   position: absolute;
-  z-index: -99;
+  z-index: -1;
 }
 .bar-open {
   background: white;
@@ -360,7 +360,7 @@ a {
 }
 .description {
   position: relative;
-  z-index: 5;
+  z-index: -1;
   top: -30px;
   left: 17px;
   font-style: italic;
