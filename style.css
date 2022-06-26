@@ -357,10 +357,11 @@ a {
   margin: 5px 0px 0px 0px;
   position: relative;
   left: 35px;
+  z-index: -1;
 }
 .description {
   position: relative;
-  z-index: -1;
+  z-index: -2;
   top: -30px;
   left: 17px;
   font-style: italic;
