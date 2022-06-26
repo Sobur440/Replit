@@ -30,6 +30,7 @@ nav {
   position: relative;
   transition: .3s;
   left: -100%;
+  z-index: 99;
 }
 .ham2 {
   margin: 6px;
